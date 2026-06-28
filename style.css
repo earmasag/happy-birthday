@@ -1,15 +1,15 @@
 /* customizable snowflake styling */
 .loader button {
-    width: 50%;
+    width: 80%;
+    max-width: 400px;
     height: 100px;
     position: fixed;
     left: 50%;
     top: 45%;
-    transform: translateY(-50%);
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
     background: center no-repeat #fff;
     z-index: 9999999999999999999999;
-    font-size: 50px;
+    font-size: clamp(30px, 8vw, 50px);
     outline: none;
     box-sizing: border-box;
     border: none;
