@@ -59,7 +59,7 @@
 }
 
 body {
-    background-color: #FFDAB9;
+    background-color: #F8F6F0;
 }
 
 img {
@@ -76,7 +76,7 @@ img {
 .area {
     text-align: center;
     font-size: 70px;
-    color: #C4515C;
+    color: #F975A0;
     letter-spacing: -7px;
     font-weight: 700;
     text-transform: uppercase;
@@ -116,14 +116,13 @@ img {
 
 .type-wrap {
     font-size: 25px;
-    color: #C4515C;
+    color: #F975A0;
 
 }
 
 .cake {
-    transform: translateY(-50%);
     transform: translateX(-50%);
     left: 50%;
     position: absolute;
-    padding-top: 250px;
+    padding-top: 380px;
 }
